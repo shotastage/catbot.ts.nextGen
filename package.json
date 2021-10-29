@@ -1,0 +1,10 @@
+{
+  "name": "catbot.v2",
+  "version": "0.0.1",
+  "description": "NECO Bot Gen.2",
+  "main": "index.js",
+  "repository": "git@github.com:shotastage/catbot.ts.nextGen.git",
+  "author": "Shota Shimazu <hornet.live.mf@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
